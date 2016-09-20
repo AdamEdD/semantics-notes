@@ -3,6 +3,8 @@
 #### Comparative Programming languages
 #### Programming paradigms
 
+---------------
+
 **some stuff that will be covered in the course**
 - Scheme
 - Haskell
