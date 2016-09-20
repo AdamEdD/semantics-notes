@@ -33,11 +33,11 @@ _lambda calculus and the Turing machine are computationally equivalent_
     - snowball, icon
     
 -----------------
-Purity
+- Purity
     - all you can do is call, assign and return
-Algabraic data types
-Lazy evaluation
+- Algabraic data types
+- Lazy evaluation
     - returns a stream (list) further down the list is more accurate results
-Monads
+- Monads
 
 
