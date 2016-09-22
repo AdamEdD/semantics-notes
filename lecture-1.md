@@ -1,4 +1,4 @@
-## Programming language design and semantics - cs424 - Barack Pearlmutter
+## Programming language design and semantics - cs424 - Barak Pearlmutter
 
 #### Comparative Programming languages
 #### Programming paradigms
